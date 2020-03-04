@@ -7,8 +7,24 @@
     <title>Create</title>
 </head>
 <body>
-    <div>
-    
-    </div>
+
+<Legend>Datos Video</Legend>
+
+<Label for="idVideo">idVideo</Label>
+<input type="Text" name="idVideo"/>
+
+<Label for="titulo">titulo</Label>
+<input type="Text" name="titulo"/>
+
+<Label for="Repro">Repro</Label>
+<input type="Text" name="Repro"/>
+
+
+<Label for="url">url</Label>
+<input type="Text" name="url"/>
+
+<input type="submit" name="name" Value="Ingresar"/>
+</form>
+   
 </body>
 </html>

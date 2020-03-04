@@ -7,8 +7,13 @@
     <title>Delete</title>
 </head>
 <body>
-    <div>
-    
-    </div>
+ <Legend>Datos Video</Legend>
+
+<Label for="idVideo">idVideo</Label>
+<input type="Text" name="idVideo"/>
+
+<input type="submit" name="name" Value="elieminar"/>
+</form>
+   
 </body>
 </html>
