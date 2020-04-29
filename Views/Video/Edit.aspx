@@ -7,13 +7,14 @@
     <title>Edit</title>
 </head>
 <body>
+<fieldset>  
  <Legend>Datos Video</Legend>
 
 <Label for="idVideo">idVideo</Label>
 <input type="Text" name="idVideo"/>
 
 <input type="submit" name="name" Value="Actualizar Video"/>
-
+</fieldset>
 </form>
    
 

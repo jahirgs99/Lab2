@@ -7,12 +7,14 @@
     <title>Delete</title>
 </head>
 <body>
+<fieldset>
  <Legend>Datos Video</Legend>
 
 <Label for="idVideo">idVideo</Label>
 <input type="Text" name="idVideo"/>
 
-<input type="submit" name="name" Value="elieminar"/>
+<input type="submit" name="name" Value="eliminar"/>
+</fieldset>
 </form>
    
 </body>

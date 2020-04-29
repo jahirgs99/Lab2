@@ -7,10 +7,31 @@
     <title>Index</title>
 </head>
 <body>
+    
+    <fieldset>
     <h1>MENU OPCIONES</h1>
+    <br />
+
+    <fieldset>
     <a href="/Video/Create">Agregar Video</a>
+    </fieldset>
+    <br />
+
+    <fieldset>
     <a href="/Video/Edit">Modificar Video</a>
+    </fieldset>
+    <br />
+
+    <fieldset>
     <a href="/Video/Delete">Eliminar</a>
+    </fieldset>
+    <br />
+
+    <fieldset>
     <a href="/Video/Index">consultar todos los videos</a>
+    </fieldset>
+    <br />
+
+    </fieldset>
 </body>
 </html>

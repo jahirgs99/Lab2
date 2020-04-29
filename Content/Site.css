@@ -26,3 +26,13 @@
 {
     display: none;
 }
+fieldset label 
+{
+    display:block;
+}
+
+fieldset input
+{
+    display:block;
+    margin-bottom:5px;
+}

@@ -7,7 +7,7 @@
     <title>Create</title>
 </head>
 <body>
-
+<fieldset>
 <Legend>Datos Video</Legend>
 
 <Label for="idVideo">idVideo</Label>
@@ -24,6 +24,7 @@
 <input type="Text" name="url"/>
 
 <input type="submit" name="name" Value="Ingresar"/>
+</fieldset>
 </form>
    
 </body>
